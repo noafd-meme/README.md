@@ -1,3 +1,5 @@
+[German](https://github.com/noafd-meme/about/blob/396bf28b3d5c252c0d71481805c995c1777c7208/README_de.md)
+
 # NoAfD.meme - A Politically Conscious Meme Community
 
 NoAfD.meme is a community-driven platform leveraging the power of memes to promote open and progressive values in Germany. Through humor and creativity, it serves as a medium to counter divisive rhetoric, foster solidarity, and inspire positive change.
